@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------
 Steps for install project in VS code
-
+--------------------------------------------------------------------
 1)Open VS Code and import the project
 2)Open Terminal (Menus --View -New Terminal)
 3)Run the command in terminal for installing dependencies
